@@ -1,0 +1,27 @@
+site_name: "Java Foundation Notes"
+nav:
+  - "Home": "index.md"
+  - "Java Basics": 
+    - "What is Java": "java-basics/what-is-java.md"
+    - "Java Basics": "java-basics/java-basics-fundamentals.md"
+    - "Basic Java Elements": "java-basics/basic-java-elements.md"
+  - "Data Types and Operators":
+    - "Working with Java Data Types": "data-types-operators/java-data-types.md"
+    - "Working with Java Operators": "data-types-operators/java-operators.md"
+  - "Flow Control":
+    - "Decision Statements": "flux-control/decision-statements.md"
+    - "Using Loop Statements": "flux-control/loop-statements.md"
+theme:
+  name: material
+  palette:
+    scheme: slate
+  code:
+    highlight_theme: dracula
+
+markdown_extensions:
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences

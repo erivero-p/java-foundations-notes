@@ -11,6 +11,8 @@ nav:
   - "Flow Control":
     - "Decision Statements": "flux-control/decision-statements.md"
     - "Using Loop Statements": "flux-control/loop-statements.md"
+  - "Arrays and Collections":
+    - "Arrays and ArrayLists": "arrays-collections/arrays-arraylist.md"
 theme:
   name: material
   palette:

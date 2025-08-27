@@ -13,6 +13,9 @@ nav:
     - "Using Loop Statements": "flux-control/loop-statements.md"
   - "Arrays and Collections":
     - "Arrays and ArrayLists": "arrays-collections/arrays-arraylist.md"
+  - "OOP concepts":
+    - "Classes and Constructors": "OOP/classes-constructors.md"
+    - "Java Methods": "OOP/java-methods.md"
 theme:
   name: material
   palette:

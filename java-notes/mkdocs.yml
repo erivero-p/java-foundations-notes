@@ -16,6 +16,12 @@ nav:
   - "OOP concepts":
     - "Classes and Constructors": "OOP/classes-constructors.md"
     - "Java Methods": "OOP/java-methods.md"
+  - "Math, Random and String classes":
+    - "Math and Random classes": "math-random-string/math-random.md"
+    - "String class": "math-random-string/string.md"
+  - "Exception Handling":
+    - "Exception Handling": "exceptions/exception-handling.md"
+
 theme:
   name: material
   palette:

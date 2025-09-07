@@ -20,7 +20,15 @@ Welcome to the Java Foundations Notes! This comprehensive guide covers the essen
 ### Arrays and Collections
 - **[Arrays and ArrayLists](arrays-collections/arrays-arraylist.md)** - Declaration, instantiation, usage, and differences between arrays and ArrayLists
 
+
 ### Object-Oriented Programming Concepts (OOP)
 - **[Classes and Constructors](OOP/classes-constructors.md)** - Object fields, encapsulation, constructors, scope, and variable lifespan
 - **[Java Methods](OOP/java-methods.md)** - Method creation, overloading, varargs, static, and parameter passing
+
+### Math, Random, and String Classes
+- **[Math and Random](math-random-string/math-random.md)** - Math functions, random number generation, and usage examples
+- **[String](math-random-string/string.md)** - String manipulation, methods, and String formatting
+
+### Exception Handling
+- **[Exception Handling](exceptions/exception-handling.md)** - Handling exceptions, try-catch, checked and unchecked
 
